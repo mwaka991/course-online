@@ -1,0 +1,6 @@
+{
+  "name": "Tanzania Tech & AI Academy",
+  "description": "Jifunze teknolojia, AI na digital skills kwa vitendo. Pata ujuzi wa kisasa wa kutengeneza fursa za kipato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
